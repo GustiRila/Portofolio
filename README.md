@@ -1,1 +1,1 @@
-# Portofolio menggunakan prmograman PHP dengan framework Laravel
+# Portofolio menggunakan pemrograman PHP dengan framework Laravel
